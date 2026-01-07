@@ -3,7 +3,6 @@
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
 	vertical-align: baseline;
 }
 
@@ -53,4 +52,5 @@ img {
   font-weight: 300;
   color: hsl(216, 15%, 48%);
   margin: 10px 25px 35px 25px;
+
 }
